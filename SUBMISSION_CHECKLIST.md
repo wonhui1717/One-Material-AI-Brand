@@ -1,0 +1,14 @@
+# Submission Checklist
+- [x] README is visible at repository root
+- [x] Storyboard PDF included
+- [x] Image/video/audio prompt documents included
+- [x] Five generated images included
+- [x] Actual tool limitation and fallback strategy documented
+- [x] Final MP4 included at repository root
+- [x] Final video is under 10 seconds
+- [x] Final video is at least 720p
+- [x] H.264 video and AAC audio used
+- [ ] Add original Kling Scene 1-2 files if available
+- [ ] Add original Suno and ElevenLabs files if available
+- [ ] Upload the CONTENTS of this folder to a public GitHub repository
+- [ ] Open the GitHub link in a logged-out/private window before submission
